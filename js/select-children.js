@@ -1,0 +1,1 @@
+$("#bag-sleepingbag").children("td").eq(1)
